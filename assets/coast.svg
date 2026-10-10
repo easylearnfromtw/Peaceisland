@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 950" role="img" aria-label="和平島的海岸、山丘與彩色街屋插畫">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e3edf0"/><stop offset="1" stop-color="#fff4d0"/></linearGradient>
+ <linearGradient id="water" x2="0" y2="1"><stop stop-color="#327e92"/><stop offset="1" stop-color="#164967"/></linearGradient>
+ <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r="0.65" fill="#fff" opacity=".29"/></pattern>
+</defs>
+<rect width="1400" height="950" fill="url(#sky)"/>
+<circle cx="1030" cy="216" r="107" fill="#f2cc45"/>
+<path d="M0 420 Q175 360 300 382 T610 348 Q710 282 870 348 T1160 340 Q1270 338 1400 298 V650H0Z" fill="#86aa8e"/>
+<path d="M0 476 Q220 383 398 428 T737 418 Q920 375 1070 410 T1400 394V655H0Z" fill="#28745b"/>
+<path d="M0 568Q370 488 650 536T1400 498V950H0Z" fill="url(#water)"/>
+<path d="M0 633Q385 605 710 637T1400 610" fill="none" stroke="#f9f6e8" stroke-width="5" opacity=".45"/>
+<path d="M0 738Q370 708 690 740T1400 716M0 826Q490 795 850 831T1400 814" fill="none" stroke="#c5e4db" stroke-width="3" opacity=".3"/>
+<g transform="translate(114,330)">
+ <path d="M0 260L35 200H600l53 60V350H0Z" fill="#1d536b"/>
+ <g stroke="#184b5d" stroke-width="4">
+  <path d="M22 110h90v150H22Z" fill="#f2cc45"/><path d="M110 64h106v196H110Z" fill="#e5a16a"/>
+  <path d="M215 94h106v166H215Z" fill="#d9d9c5"/><path d="M322 30h110v230H322Z" fill="#28745b"/>
+  <path d="M431 100h95v160H431Z" fill="#f5d45c"/><path d="M526 76h91v184H526Z" fill="#cf6a55"/>
+ </g>
+ <g fill="#203c4f">
+  <path d="M42 147h24v32H42ZM82 147h17v32H82ZM42 198h24v32H42ZM82 198h17v32H82Z"/>
+  <path d="M135 105h20v36h-20ZM177 105h20v36h-20ZM135 165h20v36h-20ZM177 165h20v36h-20Z"/>
+  <path d="M245 130h29v35h-29ZM285 130h25v35h-25ZM245 190h29v35h-29ZM285 190h25v35h-25Z"/>
+  <path d="M348 71h30v37h-30ZM393 71h29v37h-29ZM348 134h30v37h-30ZM393 134h29v37h-29ZM348 200h30v37h-30ZM393 200h29v37h-29Z"/>
+  <path d="M450 139h28v37h-28ZM490 139h25v37h-25ZM450 203h28v37h-28ZM490 203h25v37h-25Z"/>
+  <path d="M548 115h23v37h-23ZM581 115h23v37h-23ZM548 184h23v37h-23ZM581 184h23v37h-23Z"/>
+ </g>
+</g>
+<path d="M795 590Q1060 518 1400 562V950H985Q854 864 795 590Z" fill="#e9c498"/>
+<path d="M941 572Q1140 533 1400 566V826Q1290 786 1188 738Q1048 660 941 572Z" fill="#c0a87c"/>
+<path d="M1042 645Q1140 627 1252 665T1400 683" fill="none" stroke="#f8e9cd" stroke-width="12" opacity=".65"/>
+<path d="M1050 804l99-25 75 28-89 38Z" fill="#997a62"/><path d="M1100 867l115-25 55 21-107 33Z" fill="#997a62"/>
+<g transform="translate(420,682)"><path d="M0 24h232l-33 38H50Z" fill="#f1e2c6"/><path d="M93 -14v34" stroke="#f1e2c6" stroke-width="7"/><path d="M100 -11l74 29H100Z" fill="#f2cc45"/></g>
+<rect width="1400" height="950" fill="url(#grain)" opacity=".2"/>
+</svg>
